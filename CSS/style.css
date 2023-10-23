@@ -1,0 +1,22 @@
+.h1aboutus{
+    border: 5px double rgb(84, 129, 69); 
+    color: rgb(71, 134, 87);
+    text-align: center;
+    font-size: 40px;
+    border-width: 10px;
+    background-color:rgb(246, 252, 252);
+    border-color: rebeccapurple blue green darkred; 
+ }
+ .bodyaboutus{
+    background-image: url('/home/sandrabest/source/swe-class/html/week_2_project/images/young-woman-drinking-water-bottle-260nw-2159553913.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right top;
+    background-attachment: scroll;
+    
+}
+.bodyindex{
+    background-image: url('/home/sandrabest/source/swe-class/html/week_2_project/images/homebk.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat;
+}
